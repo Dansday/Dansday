@@ -102,7 +102,7 @@ I own features end to end — schema, API, frontend, infrastructure, and the mon
 <p align="center">
   <a href="https://github.com/dansday-com/dansday-main">
     <img src="https://img.shields.io/badge/dansday--main-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="dansday-main">
-    <img src="https://img.shields.io/github/languages/top/dansday-com/dansday-main?style=for-the-badge&labelColor=0D1117&color=777BB4" alt="Top language">
+    <img src="https://img.shields.io/github/languages/top/dansday-com/dansday-main?style=for-the-badge&labelColor=0D1117&color=555555" alt="Top language">
     <img src="https://img.shields.io/github/last-commit/dansday-com/dansday-main?style=for-the-badge&labelColor=0D1117&color=E60000" alt="Last commit">
     <img src="https://img.shields.io/github/license/dansday-com/dansday-main?style=for-the-badge&labelColor=0D1117&color=555555" alt="License">
   </a>
@@ -111,7 +111,7 @@ I own features end to end — schema, API, frontend, infrastructure, and the mon
 <p align="center">
   <a href="https://github.com/dansday-com/dansday-discord-bot">
     <img src="https://img.shields.io/badge/dansday--discord--bot-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="dansday-discord-bot">
-    <img src="https://img.shields.io/github/languages/top/dansday-com/dansday-discord-bot?style=for-the-badge&labelColor=0D1117&color=3178C6" alt="Top language">
+    <img src="https://img.shields.io/github/languages/top/dansday-com/dansday-discord-bot?style=for-the-badge&labelColor=0D1117&color=555555" alt="Top language">
     <img src="https://img.shields.io/github/last-commit/dansday-com/dansday-discord-bot?style=for-the-badge&labelColor=0D1117&color=E60000" alt="Last commit">
     <img src="https://img.shields.io/github/license/dansday-com/dansday-discord-bot?style=for-the-badge&labelColor=0D1117&color=555555" alt="License">
   </a>
