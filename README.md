@@ -16,9 +16,26 @@
 
 ### 👨‍💻 About
 
-Software Engineer at **3cat Sdn. Bhd.**, building and maintaining commerce systems in production.
+Software Engineer at **3cat Sdn. Bhd.**, building commerce systems that run in production and carry real revenue.
 
-Most of my commits live in private repositories, so this profile shows a fraction of the work. What is public is **DISNUT** — the multi-service stack behind `dansday.com`, `admin.dansday.com` and `bot.dansday.com`, serving 450,000+ requests a month.
+I own features end to end — schema, API, frontend, infrastructure, and the monitoring that catches problems before customers do. Four years across e-commerce and marketplace platforms in Malaysia and Indonesia.
+
+**Open to new opportunities.**
+
+---
+
+### 📈 Selected results
+
+| | |
+|---|---|
+| **2x conversion** | Engineered a split-payment checkout flow |
+| **3x sales** | Delivered a voucher system end to end in 24 hours |
+| **6x sales** | Built a CMS and store pickup across 22 locations |
+| **30% YoY sales** | Redesigned promotional and checkout systems with flash-sale support |
+| **96% less load** | Optimised backend queries while doubling transactions |
+| **40% lower cost** | Refactored 50,000+ lines of legacy code, PageSpeed to 98 |
+| **200,000+ LOC** | Led a zero-defect upgrade in 2 weeks with full backward compatibility |
+| **5 hrs → 15 min** | Automated manual workflows via n8n, Airtable and Respond.io |
 
 ---
 
@@ -77,8 +94,6 @@ Most of my commits live in private repositories, so this profile shows a fractio
 <p align="center">
   <img src="https://img.shields.io/github/followers/Dansday?style=for-the-badge&logo=github&color=E60000&labelColor=0D1117" alt="Followers">
 </p>
-
-<p align="center"><sub>Served from my own site, so private contributions are counted too.</sub></p>
 
 ---
 
