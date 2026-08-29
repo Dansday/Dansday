@@ -1,8 +1,8 @@
 <h1 align="center">Akbar Yudhanto</h1>
 
 <p align="center">
-  <b>Full-stack engineer</b> · Kuala Lumpur, Malaysia<br>
-  I build production systems end to end — design, build, deploy,<br>and the observability that tells me when I got it wrong.
+  <b>Full-Stack Engineer</b> · Kuala Lumpur, Malaysia<br>
+  I ship e-commerce and marketplace systems that move revenue —<br>from database to deployment.
 </p>
 
 <p align="center">
